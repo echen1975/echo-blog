@@ -4,11 +4,9 @@ title: Kite Runner Book Review
 categories:
   - 读书
 tags:
-  - <Kite Runner>
+  - Kite Runner
 date: '2019-01-03T21:40:19-05:00'
 ---
-Book Review :**Kite Runner** by Khaled Hosseini: 
-
 I read this book twice; first time is Chinese version couple years ago, It is so warm and touchable book, after finished reading <kite Runner> I turned interested in author Khaled Hosseini and read all sister’s books by same author. Surprised to me all of these 3 books 《Kite Runner》 ,《A Thousand Splendid Suns》&《And the Mountains Echoed》 are that kind of books that you are hard to put them down once  you glance. All of them are very warm and tender; shine the power of humanity. 
 
 Kite runner is a very simple story, talking about the friendship and brotherhood between two Afghanistan boys. Amir is the master’s son and Hassan is his servant’s son and also his secrete half-brother. They are best friends and also experts in the art of kite flying. Compared his father- man dares to fight with bear without any weapons, Amir is quiet and little bit timid, in his childhood he was striving to gain his father’s love and recognizing and also jealous of his friend Hassan getting many attentions from his father.
