@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Book review for Cider House Rules by John Irving
+title: Cider House Rules Book Review
 categories:
-  - 书中自有黄金屋
+  - 读书
 tags:
   - Cider House Rules
 date: '2019-01-03T21:35:14-05:00'
