@@ -518,8 +518,8 @@ pangu: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: echoblog-1
   count: true
   lazyload: false
 
