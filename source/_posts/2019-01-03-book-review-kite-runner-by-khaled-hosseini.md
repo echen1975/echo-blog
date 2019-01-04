@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: 'Book Review:Kite Runner by Khaled Hosseini'
+title: Kite Runner Book Review
 categories:
-  - 书中自有黄金屋
+  - 读书
 tags:
   - <Kite Runner>
 date: '2019-01-03T21:40:19-05:00'
